@@ -6,3 +6,5 @@
 - JS
 - Date and cycle
 - Gulp
+
+![screenshot](https://github.com/ivanchelovekov/Productly/blob/main/img/screenshot.jpg)
